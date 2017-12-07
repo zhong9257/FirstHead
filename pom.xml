@@ -6,7 +6,12 @@
 
     <groupId>com.firsthead</groupId>
     <artifactId>firsthead</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
+    <modules>
+        <module>firsthead-strategy</module>
+    </modules>
+
+    <packaging>pom</packaging>
 
     <repositories>
         <repository>
