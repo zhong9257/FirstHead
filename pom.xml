@@ -9,6 +9,7 @@
     <version>1.0.1-SNAPSHOT</version>
     <modules>
         <module>firsthead-strategy</module>
+        <module>firsthead-observer</module>
     </modules>
 
     <packaging>pom</packaging>
